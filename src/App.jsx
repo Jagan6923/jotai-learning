@@ -6,6 +6,8 @@ function App() {
 
   return (
     <>
+      <h1>Shopping Cart</h1>
+      <h3>Jotai Learning</h3>
       <AddProductForm />
       <ProductList />
       <Cart />
